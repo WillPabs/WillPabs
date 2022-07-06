@@ -1,8 +1,9 @@
 Hi 👋 My name is William Pabitero
 =================================
 
-Full Stack Web Developer
+Software Engineer
 ------------------------
+I graduated with a bachelor's in Computer Science and worked at FDM Group as a backend developer, using Java. I have since switched over into learning javascript to pursue a career in full stack web development.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [pabiterowilliam@yahoo.com](mailto:pabiterowilliam@yahoo.com)
