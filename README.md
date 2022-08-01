@@ -6,7 +6,7 @@ Software Engineer
 I graduated with a bachelor's in Computer Science and worked at FDM Group as a backend developer. I have since switched over into learning javascript to pursue a career in full stack web development.
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [pabiterowilliam@yahoo.com](mailto:pabiterowilliam@gmail.com)
+* ✉️  You can contact me at [pabiterowilliam@gmail.com](mailto:pabiterowilliam@gmail.com)
 * 🧠  I'm learning Javascript
 
 ### Skills
