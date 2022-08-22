@@ -3,11 +3,11 @@ Hi 👋 My name is William Pabitero
 
 Software Engineer
 ------------------------
-I graduated with a bachelor's in Computer Science and worked at FDM Group as a backend developer. I have since switched over into learning javascript to pursue a career in full stack web development.
+I graduated with a bachelor's in Computer Science and worked at FDM Group as a backend developer. I have since switched over from Java into learning Javascript to pursue a career in full stack web development. I'm also actively learning clarity to further my knowledge in my interest in blockchain development.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [pabiterowilliam@gmail.com](mailto:pabiterowilliam@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Full Stack Javascript and Clarity
 
 ### Skills
 
@@ -29,11 +29,3 @@ I graduated with a bachelor's in Computer Science and worked at FDM Group as a b
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/willpabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/william-pabitero/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14338383/pabscode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/willpabs"><img src="https://github-readme-stats.vercel.app/api?username=willpabs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="willpabs's GitHub stats" /></a>
-
-<a href="https://github.com/willpabs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willpabs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
