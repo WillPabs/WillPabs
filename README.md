@@ -3,11 +3,11 @@ Hi 👋 My name is William Pabitero
 
 Software Engineer
 ------------------------
-I graduated with a bachelor's in Computer Science and worked at FDM Group as a backend developer. I have since switched over from Java into learning Javascript to pursue a career in full stack web development. I'm also actively learning clarity to further my knowledge in my interest in blockchain development.
+I graduated with a bachelor's in Computer Science and worked at FDM Group as a backend developer. I have since switched over from Java into learning Javascript to pursue a career in full stack web development. I'm also actively learning solidity to further my knowledge in my interest in blockchain development.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [pabiterowilliam@gmail.com](mailto:pabiterowilliam@gmail.com)
-* 🧠  I'm learning Full Stack Javascript and Clarity
+* 🧠  I'm learning Full Stack Javascript and Solidity
 
 ### Skills
 
